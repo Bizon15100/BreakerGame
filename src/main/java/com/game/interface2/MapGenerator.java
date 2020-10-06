@@ -3,7 +3,7 @@ package com.game.interface2;
 import java.awt.*;
 
 public class MapGenerator {
-    public int mapBr[][];
+    public int[][] mapBr;
     public int brickWidth;
     public int brickHeight;
     public MapGenerator(int row,int col){
