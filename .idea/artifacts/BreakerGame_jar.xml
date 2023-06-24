@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="BreakerGame:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/BreakerGame_jar</output-path>
-    <root id="archive" name="BreakerGame.jar">
-      <element id="module-output" name="BreakerGame" />
-    </root>
-  </artifact>
-</component>
